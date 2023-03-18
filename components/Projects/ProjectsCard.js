@@ -167,11 +167,11 @@ const ProjectsCard = () => {
                     <a className="category">Development</a>
                   </Link>
                   <h3>
-                    <Link href="/projects/messaging-app">
-                      <a>Analytics Software</a>
+                    <Link href="/projects/analytics-software">
+                      <a>Analytics SAAS</a>
                     </Link>
                   </h3>
-                  <Link href="/projects/messaging-app">
+                  <Link href="/projects/analytics-software">
                     <a className="projects-btn">View More</a>
                   </Link>
                 </div>

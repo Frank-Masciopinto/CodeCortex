@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Link from "@/utils/ActiveLink";
+import Link from "utils/ActiveLinkiveLink";
 
 const NavbarThree = () => {
   const [menu, setMenu] = React.useState(true);

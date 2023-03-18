@@ -147,7 +147,7 @@ const ProjectSlider = () => {
                   data-aos-once="true"
                 >
                   <div className="projects-image">
-                    <Link href="/projects/messaging-app">
+                    <Link href="/projects/analytics-software">
                       <a>
                         <img
                           src="/images/projects/projects-4.jpg"
@@ -158,11 +158,11 @@ const ProjectSlider = () => {
                   </div>
                   <div className="projects-content">
                     <h3>
-                      <Link href="/projects/messaging-app">
-                        <a>Analytics Software</a>
+                      <Link href="/projects/analytics-software">
+                        <a>Analytics SAAS</a>
                       </Link>
                     </h3>
-                    <Link href="/projects/messaging-app">
+                    <Link href="/projects/analytics-software">
                       <a className="projects-btn">View More</a>
                     </Link>
                   </div>
