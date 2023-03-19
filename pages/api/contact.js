@@ -1,14 +1,16 @@
 import nodemailer from "nodemailer";
-import sgTransport from "nodemailer-sendgrid-transport";
 
 const transporter = {
+  host: 'mail.privateemail.com',
+  port: 587,
+  secure: false,
   auth: {
-    // Update your SendGrid API key here
-    api_key: "...",
-  },
+    user: 'team@codecortex.eu',
+    pass: 'G@1@3133'
+  }
 };
 
-const mailer = nodemailer.createTransport(sgTransport(transporter));
+const mailer = nodemailer.createTransport(transporter);
 
 export default async (req, res) => {
   // console.log(req.body)
@@ -17,11 +19,12 @@ export default async (req, res) => {
   const data = {
     // Update your email here
     to: "team@codecortex.eu",
-    from: email,
+    from: "team@codecortex.eu",
     subject: "Website Customer Enquiry",
     text: text,
     html: `
             <b>From:</b> ${name} <br /> 
+            <b>Visitor Email:</b> ${email} <br /> 
             <b>Number:</b> ${number} <br /> 
             <b>Subject:</b> ${subject} <br /> 
             <b>Message:</b> ${text} 
