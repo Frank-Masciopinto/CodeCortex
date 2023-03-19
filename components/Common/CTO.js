@@ -8,9 +8,9 @@ const CTO = () => {
           <div className="row justify-content-center">
             <div className="col-lg-3 col-md-6">
               <div className="overview-card">
-                <h3>Call Us</h3>
+                <h3>Chat With Us</h3>
                 <span>
-                  <a href="tel:9901234567">+990-123-4567</a>
+                  <a href="https://page.line.me/814inpab">Line @CodeCortex</a>
                 </span>
 
                 <div className="overview-shape">
@@ -23,7 +23,7 @@ const CTO = () => {
               <div className="overview-card">
                 <h3>Email Us</h3>
                 <span>
-                  <a href="mailto:hellostax@gmail.com">hellostax@gmail.com</a>
+                  <a href="mailto:team@codecortex.eu">team@codecortex.eu</a>
                 </span>
 
                 <div className="overview-shape">
@@ -36,7 +36,7 @@ const CTO = () => {
               <div className="overview-card">
                 <h3>Tech Support</h3>
                 <span>
-                  <a href="tel:15143125678">+1 (514) 312-5678</a>
+                  <a href="tel:0187921631">+60187921631</a>
                 </span>
 
                 <div className="overview-shape">
@@ -48,7 +48,8 @@ const CTO = () => {
             <div className="col-lg-3 col-md-6">
               <div className="overview-card">
                 <h3>Visit Us</h3>
-                <span>413 North Las Vegas, NV 89032</span>
+                <span>401 Ryland St STE 200A
+Reno, NV 89502</span>
 
                 <div className="overview-shape">
                   <img src="/images/overview/overview-shape.png" alt="image" />

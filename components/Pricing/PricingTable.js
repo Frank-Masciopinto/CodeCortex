@@ -72,8 +72,9 @@ const PricingTable = () => {
                   $15,000 <span></span>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet consetetur sadi scing elitr sed
-                  diam nonumy eirmod.
+                  We specialize in cross-platform mobile app development,
+                  leveraging the latest technologies to create fast, efficient,
+                  and intuitive apps that meet your business needs.
                 </p>
 
                 <ul className="pricing-list">

@@ -365,8 +365,8 @@ const Navbar = () => {
                   </li>
 
                   <li>
-                    <i className="ri-map-pin-line"></i> 413 North Las Vegas, NV
-                    89032
+                    <i className="ri-map-pin-line"></i> 401 Ryland St STE 200A
+Reno, NV 89502
                   </li>
                 </ul>
               </div>

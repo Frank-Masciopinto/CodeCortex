@@ -17,12 +17,13 @@ const Topbar = () => {
                 <li>
                   <i className="ri-mail-line"></i>
                   <span>
-                    Mail: <a href="mailto:hellostax@gmail.com">hellostax@gmail.com</a>
+                    Mail: <a href="mailto:team@codecortex.eu">team@codecortex.eu</a>
                   </span>
                 </li>
                 <li>
                   <i className="ri-map-pin-line"></i>
-                  <span>Address:</span> 413 North Las Vegas, NV 89032
+                  <span>Address:</span> 401 Ryland St STE 200A
+Reno, NV 89502
                 </li>
               </ul>
             </div>
