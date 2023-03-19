@@ -32,7 +32,7 @@ const PricingTable = () => {
                   $10,000 <span></span>
                 </div>
                 <p>
-                  From simple websites to complex SaaS applications, our team of
+                  From simple websites to Chrome Extensions to complex SaaS applications, our team of
                   expert developers has the experience and expertise to deliver
                   exceptional results.
                 </p>
@@ -119,7 +119,7 @@ const PricingTable = () => {
               >
                 <h3>Blockchain Development</h3>
                 <div className="price">
-                  $30,000 <span></span>
+                  $50,000 <span></span>
                 </div>
                 <p>
                   Customized blockchain solutions tailored to your unique

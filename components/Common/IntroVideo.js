@@ -9,7 +9,7 @@ const IntroVideo = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://www.youtube.com/watch?v=ox3KJedkeC8"]}
       />
 
       <div className="video-area">

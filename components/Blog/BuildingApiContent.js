@@ -364,7 +364,7 @@ const BuildingApiContent = () => {
                         </li>
                         <li>
                           <a
-                            href="https://www.youtube.com/"
+                            href="https://www.youtube.com/channel/UCo4z9tvZOpz06i6kpkMGc_Q"
                             target="_blank"
                             rel="noreferrer"
                           >

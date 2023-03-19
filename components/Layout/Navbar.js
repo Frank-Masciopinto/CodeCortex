@@ -209,15 +209,6 @@ const Navbar = () => {
 
                         <li className="nav-item">
                           <Link
-                            href="/profile-authentication"
-                            activeClassName="active"
-                          >
-                            <a className="nav-link">Profile Authentication</a>
-                          </Link>
-                        </li>
-
-                        <li className="nav-item">
-                          <Link
                             href="/terms-of-service"
                             activeClassName="active"
                           >

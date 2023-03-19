@@ -10,7 +10,7 @@ const SingleBlogContent2 = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={['https://www.youtube.com/watch?v=bk7McNUjWgw']}
+        sources={['https://www.youtube.com/watch?v=ox3KJedkeC8']}
       />
 
       <div className="blog-details-area pt-100 pb-100">
@@ -169,7 +169,7 @@ const SingleBlogContent2 = () => {
                         </li>
                         <li>
                           <a
-                            href="https://www.youtube.com/"
+                            href="https://www.youtube.com/channel/UCo4z9tvZOpz06i6kpkMGc_Q"
                             target="_blank"
                             rel="noreferrer"
                           >
