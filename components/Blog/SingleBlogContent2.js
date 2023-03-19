@@ -151,7 +151,7 @@ const SingleBlogContent2 = () => {
                       <ul className="share-social text-end">
                         <li>
                           <a
-                            href="https://www.facebook.com/EnvyTheme"
+                            href="https://www.facebook.com/codecortex"
                             target="_blank"
                             rel="noreferrer"
                           >

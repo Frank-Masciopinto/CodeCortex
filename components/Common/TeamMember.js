@@ -24,7 +24,7 @@ const TeamMember = () => {
                   <ul className="team-social">
                     <li>
                       <a
-                        href="https://www.facebook.com/EnvyTheme"
+                        href="https://www.facebook.com/codecortex"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -68,7 +68,7 @@ const TeamMember = () => {
                   <ul className="team-social">
                     <li>
                       <a
-                        href="https://www.facebook.com/EnvyTheme"
+                        href="https://www.facebook.com/codecortex"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -112,7 +112,7 @@ const TeamMember = () => {
                   <ul className="team-social">
                     <li>
                       <a
-                        href="https://www.facebook.com/EnvyTheme"
+                        href="https://www.facebook.com/codecortex"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -156,7 +156,7 @@ const TeamMember = () => {
                   <ul className="team-social">
                     <li>
                       <a
-                        href="https://www.facebook.com/EnvyTheme"
+                        href="https://www.facebook.com/codecortex"
                         target="_blank"
                         rel="noreferrer"
                       >

@@ -392,7 +392,7 @@ Reno, NV 89502
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/"
+                    href="https://www.instagram.com/codecortex_eu"
                     target="_blank"
                     rel="noreferrer"
                   >

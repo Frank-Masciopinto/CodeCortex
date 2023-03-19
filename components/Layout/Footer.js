@@ -27,7 +27,7 @@ const Footer = () => {
                 <ul className="widget-social">
                   <li>
                     <a
-                      href="https://www.facebook.com/EnvyTheme"
+                      href="https://www.facebook.com/codecortex"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -63,7 +63,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.instagram.com/"
+                      href="https://www.instagram.com/codecortex_eu"
                       target="_blank"
                       rel="noreferrer"
                     >
