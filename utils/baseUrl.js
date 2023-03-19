@@ -1,6 +1,6 @@
 const baseUrl =
   process.env.NODE_ENV === "production"
-    ? "https://stax-react.envytheme.com"
+    ? "https://codecortex.eu"
     : "http://localhost:3000";
 
 export default baseUrl;

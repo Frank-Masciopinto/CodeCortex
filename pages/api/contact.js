@@ -1,11 +1,6 @@
 import nodemailer from "nodemailer";
 import sgTransport from "nodemailer-sendgrid-transport";
-import Cors from "cors";
 
-// Initialize the CORS middleware
-const cors = Cors({
-  methods: ["GET", "HEAD", "POST"],
-});
 const transporter = {
   auth: {
     // Update your SendGrid API key here
@@ -14,12 +9,11 @@ const transporter = {
 };
 
 const mailer = nodemailer.createTransport(sgTransport(transporter));
+
 export default async (req, res) => {
-  await cors(req, res);
   // console.log(req.body)
   const { name, email, number, subject, text } = req.body;
-  console.log("Contacting...");
-
+  console.log('Contacting...')
   const data = {
     // Update your email here
     to: "team@codecortex.eu",
