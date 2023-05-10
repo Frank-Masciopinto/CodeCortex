@@ -54,11 +54,11 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="https://vimeo.com/"
+                      href="https://www.linkedin.com/company/codecortex/"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      <i className="ri-vimeo-fill"></i>
+                      <i className="ri-linkedin-fill"></i>
                     </a>
                   </li>
                   <li>

@@ -203,7 +203,7 @@ const Navbar = () => {
 
                         <li className="nav-item">
                           <a href="/career/career" className="nav-link">
-                            Career <i class="ri-user-star-line"></i>
+                            Career <i className="ri-user-star-line"></i>
                           </a>
                         </li>
 

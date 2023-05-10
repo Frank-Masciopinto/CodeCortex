@@ -373,7 +373,7 @@ const BuildingApiContent = () => {
                         </li>
                         <li>
                           <a
-                            href="https://vimeo.com/"
+                            href="https://www.linkedin.com/company/codecortex/"
                             target="_blank"
                             rel="noreferrer"
                           >
