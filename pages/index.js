@@ -16,7 +16,6 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <meta name="facebook-domain-verification" content="koy559n502m0ubi66x84mnaykrg3vf" />
       <HeroSlider />
 
       <Partners />
@@ -45,5 +44,5 @@ export default function Home() {
         <Footer className="rounded-4" />
       </div>
     </>
-  )
+  );
 }

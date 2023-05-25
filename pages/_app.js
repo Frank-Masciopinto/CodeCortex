@@ -26,12 +26,11 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>
-          CodeCortex
-        </title>
-        <meta 
-          name="viewport" 
-          content="initial-scale=1.0, width=device-width" 
+        <title>CodeCortex</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="facebook-domain-verification"
+          content="koy559n502m0ubi66x84mnaykrg3vf"
         />
       </Head>
 
